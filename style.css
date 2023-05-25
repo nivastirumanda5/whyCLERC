@@ -1,5 +1,10 @@
 body {
     text-align: center;
+    width: 800px;
+        padding: 45px 100px;
+        margin: auto;
+        text-align: center;
+        border-radius: 25px;
   }
   
   .nav a {
